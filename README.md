@@ -1,4 +1,4 @@
 this is example test! 
 readme.md
 
-im learning how to use git and github!
+im learning how to use git I LOVE GITHUB
